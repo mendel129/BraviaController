@@ -815,6 +815,8 @@ namespace WindowsFormsApplication1
                 file.WriteLine(answerCookie);
                 file.Close();
 
+                test.cookie = answerCookie;
+
             }
             catch { textBox1.Text += "timeout \r\n"; }
         
