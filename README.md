@@ -11,8 +11,8 @@ Control Sony Bravia 2013 edition
 Pretty bad code, but it works.
 Cleanup is work in progress.
 
-> basic control using upnp
-> register and advanced control using json
+- basic control using upnp
+- register and advanced control using json
 
 
 Some raw data: http://mendelonline.be/sony/
